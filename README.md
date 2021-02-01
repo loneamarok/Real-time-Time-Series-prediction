@@ -5,3 +5,6 @@ MongoDB is used for storing the collected data.
 With the comments embedded in the code, it should be self-explanatory.
 
 Happy coding!  
+
+The results of the code was compared to the performance of ARIMA and Holt-Winters algorithm on the same data and LSTM algorithm is found to be superior for time series prediction.
+https://ieeexplore.ieee.org/document/9031015
